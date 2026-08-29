@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=devjayosch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=devjayosch&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=devjayosch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=5)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=devjayosch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=15)
 # Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%230B1F3A.svg?style=for-the-badge&logo=python&logoColor=white)
