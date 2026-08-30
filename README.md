@@ -4,7 +4,7 @@
 
 # About
 
-A 15-year-old software engineer and cybersecurity enthusiast. I share cool projects here.
+A 15-year-old software engineer and cybersecurity enthusiast. I share some projects here.
 
 <ul>
   <li>
