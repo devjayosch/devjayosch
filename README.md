@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devjayosch/devjayosch/main/image.png" alt="jayosch the coder" width="100%">
+  <img src="https://raw.githubusercontent.com/devjayosch/devjayosch/main/IMG_0614.jpg" alt="jayosch the coder" width="100%">
 </p>
 
 # About
